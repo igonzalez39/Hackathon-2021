@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>Home - Brand</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark navbar-custom">
+        <div class="container"><a class="navbar-brand" href="VRS-Homepage.html">Visual Restoration SOlutions</a><button data-toggle="collapse" class="navbar-toggler" data-target="#navbarResponsive"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse"
+                id="navbarResponsive">
+                <ul class="nav navbar-nav ml-auto">
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Sign Up</a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="#">Log In</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="masthead text-center text-white" style="height: 1185px;">
+        <div class="masthead-content">
+            <div class="container">
+                <h1 class="text-center d-lg-flex justify-content-lg-center align-items-lg-center masthead-heading mb-0" style="font-size: 86px;height: 268px;">Visual Restoration Solutions</h1>
+                <h2 class="masthead-subheading mb-0" style="font-size: 45px;padding: 4px;margin: 9px 0px 0px 0px;">The VRS&nbsp;team has developed a website with a fully integrated photo restoration system that enhances substandard photos.</h2>
+                <div style="height: 50px;"></div>
+                <div></div>
+                <h2 class="masthead-subheading mb-0" style="font-size: 43px;margin: 27px;">Click below to get started.&nbsp;</h2>
+                <p class="text-left" style="height: 32px;margin: 10px 0px 16px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="#" style="color: rgb(255,255,255);font-size: 24px;">Enter URL</a>
+                    <i
+                        class="fa fa-chain"></i>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="#" style="color: rgb(255,255,255);font-size: 24px;">Dropbox</a><i class="fa fa-dropbox"></i>&nbsp; &nbsp; &nbsp; &nbsp;<a href="#" style="color: rgb(255,255,255);font-size: 24px;">Google Drive</a>
+                        <i
+                            class="fa fa-google"></i>
+                </p>
+                <div></div>
+                <div></div><a class="btn btn-primary btn-xl rounded-pill mt-5" role="button" href="#" style="margin: 3px 0px 2px 5px;">Upload FIle&nbsp;</a></div>
+        </div>
+        <div class="bg-circle-1 bg-circle"></div>
+        <div class="bg-circle-2 bg-circle"></div>
+        <div class="bg-circle-3 bg-circle"></div>
+        <div class="bg-circle-4 bg-circle"></div>
+    </header>
+    <section>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <div class="p-5"><img class="rounded-circle img-fluid d-lg-flex justify-content-lg-center" src="assets/img/Old.png" style="width: 500px;margin: 16px 0px 16px 32px;height: 400px;">
+                        <div>
+                            <p class="d-lg-flex justify-content-lg-center align-items-lg-center" style="font-size: 100px;height: 150px;margin: 0px 0px 16px ;width: 515px;padding: 0px;"><br>↓<br><br></p><img class="rounded-circle img-fluid d-lg-flex justify-content-lg-center" src="assets/img/Fixed_1.jpeg" style="width: 500px;margin: 16px 0px 16px 32px;height: 400px;"></div>
+                    </div>
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-5">
+                        <h2 class="display-4">Our Mission..</h2>
+                        <p style="font-size: 25px;">&nbsp;VRS aims to restore imagery that is near and dear to one's heart. Aged and gritty pictures of elder relatives and loved ones can now be virtually enhanced using our website. No more pixelated, low quality images of friends
+                            and family from years ago. Our website was inspired by the need to bring families together by reminiscing on beloved indivduals from the past that have a special place in ones heart and soul.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-5"><img class="rounded-circle img-fluid" src="assets/img/Old3.png" style="width: 500px;margin: 16px 0px 16px 32px;height: 400px;">
+                        <div></div>
+                        <p class="text-center" style="width: 515px;height: 150px;font-size: 100px;">↓<br><br></p><img class="rounded-circle img-fluid" src="assets/img/Fixed_3.png" style="width: 500px;margin: 16px 0px 16px 32px;height: 400px;"></div>
+                </div>
+                <div class="col-lg-6 order-lg-2">
+                    <div class="p-5">
+                        <h2 class="display-4">How It Works</h2>
+                        <p style="font-size: 25px;">Our User Interface (UI) was built, developed, and designed using the application called Bootstrap. Bootstrap is a paid applicaton that allows full design of a website with many capabilities that made this idea into reality. The
+                            algorithm was developed using Matlab which is capable of seeking out any imperfections in a photo, called "noise," and replaces any distorted pixels and matches it with the surrounding colors.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;It is as simple as clicking our 'Get Started' link above the copying and pasting a link for any photo.&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <div class="p-5"><img class="rounded-circle img-fluid" src="assets/img/Old2.png" style="width: 500px;height: 400px;">
+                        <div></div>
+                        <p class="text-center" style="width: 455px;height: 150px;font-size: 100px;">↓<br><br></p><img class="rounded-circle img-fluid" src="assets/img/Fixed_2.png" style="width: 500px;height: 400px;"></div>
+                </div>
+                <div class="col-lg-6 order-lg-1">
+                    <div class="p-5">
+                        <h2 class="display-4">About Us</h2>
+                        <p style="font-size: 25px;">VRS, a team of students connected through a curosity in seeing their grandparents pictures in a higher quality version. What started as something so simple, developed into a shared necessity between many others to be able to cherish
+                            beautiful memories of their relatives by correcting any form of damaged or imperfect photos.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;It is true what they say, "A picture is worth a thousand words."&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="py-5 bg-black">
+        <div class="container">
+            <p class="text-center text-white m-0 small">Created by Gabriel Maldonado, Jose Luis Arrieta, and Ilsia Saeline Gonzalez 2021</p>
+        </div>
+    </footer>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+</body>
+
+</html>
